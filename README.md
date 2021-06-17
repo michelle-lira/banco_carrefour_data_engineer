@@ -24,7 +24,7 @@ precisa ter para criar soluções inteligentes através de grandes massas de dad
 
 6. Introdução à Engenharia da Dados
 
-7. Introdução à Ciência de Dados
+7. ![Introdução à Ciência de Dados](https://github.com/michelle-lira/banco_carrefour_data_engineer/tree/main/introd_ciencia_de_dados)
 
 8. Fundamentos de Arquitetura de Sistemas
 
